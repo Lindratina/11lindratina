@@ -1,0 +1,11 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  background-image: url('img/ice.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+}
+.jumbotron {
+  padding-top: 6rem;
+}
